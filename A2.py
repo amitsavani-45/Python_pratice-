@@ -1,5 +1,5 @@
 """
-Write a command to get the Python version you are using.
+1.Write a command to get the Python version you are using.
 
 python --version
 
@@ -7,7 +7,7 @@ or
 
 python -V
 
-What is PVM?
+2.What is PVM?
 PVM (Python Virtual Machine) is the part of Python that executes the bytecode (.pyc files). It converts bytecode into machine instructions and runs the program.
 
 How to create .pyc (Byte Code) file from python source file?
@@ -16,11 +16,11 @@ Example:
 
 python filename.py
 
-How to run a Python file from command prompt or terminal?
+4.How to run a Python file from command prompt or terminal?
 
 python filename.py
 
-"Data Types in Python are not keywords" – True or False
+5."Data Types in Python are not keywords" – True or False
 True 
 Data types like int, float, list, tuple, etc. are built-in classes, not reserved keywords.
 """
