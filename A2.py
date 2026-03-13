@@ -1,24 +1,24 @@
 """
 1.Write a command to get the Python version you are using.
 
-python --version
+=>python --version
 
 or
 
-python -V
+=>python -V
 
 2.What is PVM?
-PVM (Python Virtual Machine) is the part of Python that executes the bytecode (.pyc files). It converts bytecode into machine instructions and runs the program.
+= >PVM (Python Virtual Machine) is the part of Python that executes the bytecode (.pyc files). It converts bytecode into machine instructions and runs the program.
 
 How to create .pyc (Byte Code) file from python source file?
-Run the Python program once. Python automatically creates the .pyc file in the __pycache__ folder.
+=>Run the Python program once. Python automatically creates the .pyc file in the __pycache__ folder.
 Example:
 
 python filename.py
 
 4.How to run a Python file from command prompt or terminal?
 
-python filename.py
+=>python filename.py
 
 5."Data Types in Python are not keywords" – True or False
 True 
